@@ -6,7 +6,8 @@
 ## Contents
 
 - [Resources](#resources)
-- [Another Section](#templates)
+- [Templates](#templates)
+- [Contribute](#contribute)
 
 
 ## Resources
