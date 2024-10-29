@@ -15,6 +15,7 @@
 Official links and resources.
 
 - [Website](https://www.xerc20.com/) - Official Website.
+- [xERC20 Launchpad](https://launchpad.xerc20.com/) -  no-code xERC20 Launchpad
 - [Bridge Specification](https://hackmd.io/@arjunbhuptani/xerc20-bridge-spec) - Bridge Specification document.
 - [ETH Magicians](https://ethereum-magicians.org/t/erc-7281-sovereign-bridged-tokens/14979) - Discussion on ETH Magicians.
 - [Draft EIP](https://github.com/ethereum/EIPs/pull/7281) - Draft EIP.
